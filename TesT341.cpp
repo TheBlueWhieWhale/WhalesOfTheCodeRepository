@@ -5,7 +5,13 @@
 //It does, but I remade it better anyways
 //old version you made at the bottom for comparison btw, I made mine in 9 lines compared to your 20 lines
 //and thats with mine being more spaced out than yours, Samuel
+//Nahhh I got 2 lines now, yours after this new one for comparison btw ;), 2 lines compared to 9 lines. I almost
+//Have five times less lines than you.
 #include <iostream>
+using namespace std;int main(){int ChosenOne = 0;cout <<"Am I brain dead?!?\n1=Yes 2=No\nAnswer: ";cin>>ChosenOne;if(ChosenOne==1){cout<<"I'm dead...";}else{cout<<"meow";}}
+//-----------------------------------------------------------------------------------------------------------
+//                                                Your new version
+/*#include <iostream>
 using namespace std;
 
 int main(){
@@ -19,7 +25,7 @@ int main(){
     else
     cout<<"meow";
     
-}
+}*/ 
 //-------------------------------------------------------------------------------------------------------------
 //                                                  With SelfDestruct Function
 /*#include <iostream>
